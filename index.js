@@ -1,6 +1,13 @@
 import * as nodeFetch from "./nodeFetch.js";
+import * as axios from "./axios.js";
 
-nodeFetch.postPost();
+axios.postPost();
+//axios.postUser();
+//axios.picture59();
+//axios.post3();
+//axios.getAllPosts();
+//axios.getAllUsers();
+//nodeFetch.postPost();
 //nodeFetch.postUser();
 //nodeFetch.picture59();
 //nodeFetch.getPost3();
